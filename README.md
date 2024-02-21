@@ -60,13 +60,13 @@ gradle clean test
 
 - Основная страница отчёта
 <p align="center">  
-<img title="Allure Overview Dashboard" src="media/allure.png" width="850">  
+<img title="Allure Overview Dashboard" src="media/allure2.png" width="850">  
 </p>  
 
 - Тест-кейсы
 
 <p align="center">  
-<img title="Allure Tests" src="media/allure_tests.png" width="850">   
+<img title="Allure Tests" src="media/allure1.png" width="850">   
 </p>
 
 ## <img alt="Allure_TO" height="25" src="media/AllureTestOps.svg" width="25"/> </a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud">Allure TestOps</a>
@@ -74,20 +74,20 @@ gradle clean test
 - Основная страница отчёта
 
 <p align="center">  
-<img title="Allure TestOps Dashboard" src="media/dashboard.png" width="850">  
+<img title="Allure TestOps Dashboard" src="media/allure5.png" width="850">  
 </p>  
 
 - Страница запуска
   
 <p align="center">  
-<img title="Allure TestOps launch" src="media/allure_launch.png" width="850">  
+<img title="Allure TestOps launch" src="media/allure3.png" width="850">  
 </p>
 
 <a id="#интеграция-с-jira"></a>
 ## <img alt="Jira" height="25" src="media/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1111">Jira</a>
 
 <p align="center">  
-<img title="Jira" src="media/jira_task.png" width="">  
+<img title="Jira" src="media/jira.png" width="">  
 </p>
 
 ____
@@ -98,7 +98,7 @@ ____
 
 ____
 <p align="center">  
-<img title="TG Overview" src="media/tg.png" width="400">  
+<img title="TG Overview" src="media/telegram.png" width="400">  
 </p>
 
 ____
