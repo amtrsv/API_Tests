@@ -40,7 +40,7 @@
 
 <a id="запуск-тестов-сборка-в-jenkins"></a>
 
-## <img alt="Jenkins" height="25" src="media/jenkins.svg" width="25"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/API_prj_emonovaev/)
+## <img alt="Jenkins" height="25" src="media/jenkins.svg" width="25"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/API_Diplom_Tests_amtrsv/)
 
 <p align="center">  
 <img src="media/jenkins_job.png" alt="Jenkins" width="950"/></a>  
@@ -56,7 +56,7 @@ gradle clean test
 
 <a id="allure-report"></a>
 
-## <img alt="Allure" height="25" src="media/allure.svg" width="25"/> </a>Интеграция с <a target="_blank" href="https://jenkins.autotests.cloud/job/API_prj_emonovaev/6/allure/#">Allure Report</a>
+## <img alt="Allure" height="25" src="media/allure.svg" width="25"/> </a>Интеграция с <a target="_blank" href="https://jenkins.autotests.cloud/job/API_Diplom_Tests_amtrsv/allure/">Allure Report</a>
 
 - Основная страница отчёта
 <p align="center">  
@@ -84,7 +84,7 @@ gradle clean test
 </p>
 
 <a id="#интеграция-с-jira"></a>
-## <img alt="Jira" height="25" src="media/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1094">Jira</a>
+## <img alt="Jira" height="25" src="media/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1111">Jira</a>
 
 <p align="center">  
 <img title="Jira" src="media/jira_task.png" width="">  
