@@ -80,14 +80,14 @@ gradle clean test
 - Страница запуска
   
 <p align="center">  
-<img title="Allure TestOps launch" src="media/allure3.png" width="850">  
+<img title="Allure TestOps launch" src="media/allure6.png" width="850">  
 </p>
 
 <a id="#интеграция-с-jira"></a>
 ## <img alt="Jira" height="25" src="media/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1111">Jira</a>
 
 <p align="center">  
-<img title="Jira" src="media/jira.png" width="">  
+<img title="Jira" src="media/jira1.png" width="">  
 </p>
 
 ____
