@@ -43,7 +43,7 @@
 ## <img alt="Jenkins" height="25" src="media/jenkins.svg" width="25"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/API_Diplom_Tests_amtrsv/)
 
 <p align="center">  
-<img src="media/jenkins_job.png" alt="Jenkins" width="950"/></a>  
+<img src="media/jenkins.png" alt="Jenkins" width="950"/></a>  
 </p>
 
 <a id="запуск-тестов-из-терминала"></a>
